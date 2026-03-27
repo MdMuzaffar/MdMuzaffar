@@ -1,4 +1,4 @@
-<img width="1440" height="3004" alt="image" src="https://github.com/user-attachments/assets/fcbdd713-33a1-4011-aa65-cceb40a47b36" />
+
 # Hi, I'm Muzaffar 👋
 
 Open to opportunities | Learning Javascript,React,Angular & TypeScript | Building web apps
